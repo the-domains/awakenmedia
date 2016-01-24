@@ -2,6 +2,7 @@ name: Awakenmedia
 favicon: null
 layout_spectrum: 0.75638
 typography_spectrum: 0.85306
+title: Awaken Media
 cta:
   domain: null
   bucket: null
