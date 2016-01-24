@@ -1,0 +1,28 @@
+name: Awakenmedia
+favicon: null
+layout_spectrum: 0.9736947261262685
+typography_spectrum: 0.35148463142104447
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7001039043534547
+  lightness: 0.09400655119679868
+  saturation: 0.7501425698865205
+  rhythmicContrast: 0.28562674880959094
+purpose: []
